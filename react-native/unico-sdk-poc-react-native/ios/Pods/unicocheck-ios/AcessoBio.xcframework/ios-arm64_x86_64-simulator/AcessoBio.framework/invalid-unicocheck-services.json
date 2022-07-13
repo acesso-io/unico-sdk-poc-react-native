@@ -1,0 +1,17 @@
+{
+   "project_info":{
+      "project_number":"8888",
+      "project_id":"acessobio-sample"
+   },
+   "client_info":{
+      "mobilesdk_app_id":"2:327556:ios",
+      "ios_client_info":{
+         "bundle_identifier":"com.app.meuapp"
+      }
+   },
+   "host_info":{
+      "host_info":"nRMqSJJeWMZ0K4n9Dxs/Zhb5RslAxes+pmH0gJgmVtakXKLBeIM/hlR2po5muEXd",
+      "host_key":"13rOj4JRxh51vLYxTgLH1tV03KAXrp481qyP/xUFxxm0gbuAHxqJkHNcVOoI8mpy"
+   
+}
+

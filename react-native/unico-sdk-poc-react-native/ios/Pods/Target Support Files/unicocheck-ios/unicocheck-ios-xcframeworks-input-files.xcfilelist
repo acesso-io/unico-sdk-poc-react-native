@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/unicocheck-ios/unicocheck-ios-xcframeworks.sh
+${PODS_ROOT}/unicocheck-ios/AcessoBio.xcframework
+${PODS_ROOT}/unicocheck-ios/FaceTecSDK.xcframework

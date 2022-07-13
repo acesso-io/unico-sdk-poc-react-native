@@ -1,0 +1,11 @@
+framework module AcessoBio {
+  umbrella header "AcessoBio.h"
+
+  export *
+  module * { export * }
+}
+
+module AcessoBio.Swift {
+    header "AcessoBio-Swift.h"
+    requires objc
+}

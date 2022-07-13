@@ -1,0 +1,71 @@
+//
+// This is a generated file.  Do not manually edit this and commit changes.
+//
+
+"FaceTec_accessibility_cancel_button" = "Cancelar";
+"FaceTec_accessibility_torch_button" = "Alternar luz";
+
+"FaceTec_action_ok" = "OK";
+
+"FaceTec_action_im_ready" = "Estou pronto";
+"FaceTec_action_try_again" = "Tente Novamente";
+"FaceTec_action_continue" = "CONTINUE";
+"FaceTec_action_take_photo" = "TIRAR FOTO";
+"FaceTec_action_retake_photo" = "RECAPTURAR";
+"FaceTec_action_accept_photo" = "ACEITAR";
+"FaceTec_action_confirm" = "CONFIRMAR INFORMAÇÃO";
+
+"FaceTec_action_skip_nfc" = "PULAR";
+"FaceTec_camera_permission_header" = "Ativar câmera";
+
+"FaceTec_camera_permission_message_enroll" = "Por favor, clique no botão abaixo para ativar sua câmera.";
+"FaceTec_camera_permission_message_auth" = "Sua câmera está desabilitada. Toque abaixo para editar suas configurações.";
+"FaceTec_camera_permission_enable_camera" = "HABILITAR CÂMERA";
+"FaceTec_camera_permission_launch_settings" = "ABRIR CONFIGURAÇÕES";
+
+"FaceTec_feedback_center_face" = "Centralize seu rosto";
+"FaceTec_feedback_face_not_found" = "Enquadre o seu rosto";
+"FaceTec_feedback_face_not_looking_straight_ahead" = "Olhe para frente";
+"FaceTec_feedback_face_not_upright" = "Mantenha a cabeça reta";
+"FaceTec_feedback_hold_steady" = "Mantenha a posição";
+"FaceTec_feedback_move_phone_away" = "Agora, afaste seu rosto";
+"FaceTec_feedback_move_phone_closer" = "Agora, aproxime seu rosto";
+"FaceTec_feedback_move_phone_to_eye_level" = "Telefone ao nível dos olhos";
+"FaceTec_feedback_use_even_lighting" = "Ilumine seu rosto uniformemente";
+
+"FaceTec_idscan_type_selection_header" = "Tipo do documento";
+"FaceTec_idscan_capture_tap_to_focus_message" = "Toque na tela para focalizar";
+"FaceTec_idscan_capture_hold_steady_message" = "Por favor, segure firme";
+
+"FaceTec_instructions_header_ready_1" = "Vamos lá, prepare-se";
+"FaceTec_instructions_header_ready_2" = "para começar.";
+"FaceTec_instructions_message_ready_1" = "Enquadre seu rosto na marcação, pressione";
+"FaceTec_instructions_message_ready_2" = "o botão abaixo e siga as indicações na tela.";
+
+"FaceTec_presession_frame_your_face" = "Enquadre seu rosto no oval";
+
+"FaceTec_presession_position_face_straight_in_oval" = "Olhe para frente";
+"FaceTec_presession_hold_steady_3" = "Fique parado por: 3";
+"FaceTec_presession_hold_steady_2" = "Fique parado por: 2";
+"FaceTec_presession_hold_steady_1" = "Fique parado por: 1";
+"FaceTec_presession_eyes_straight_ahead" = "Olhe para a câmera";
+"FaceTec_presession_remove_dark_glasses" = "Remova os óculos escuros";
+"FaceTec_presession_neutral_expression" = "Mantenha a expressão neutra, sem sorrir";
+"FaceTec_presession_conditions_too_bright" = "Iluminado demais";
+"FaceTec_presession_brighten_your_environment" = "Ilumine seu ambiente";
+
+"FaceTec_result_facescan_upload_message" = "Estamos verificando \nse está tudo certo, \naguarde.";
+"FaceTec_result_success_message" = "Sucesso!";
+"FaceTec_result_idscan_upload_message" = "Estamos verificando \nse está tudo certo, \naguarde.";
+"FaceTec_result_nfc_upload_message" = "Estamos verificando \nse está tudo certo, \naguarde.";
+
+"FaceTec_result_idscan_unsuccess_message" = "Foto do documento nāo corresponde com rosto do usuário";
+"FaceTec_retry_header" = "Vamos tentar de novo";
+
+"FaceTec_retry_subheader_message" = "Reveja sua foto e adeque seu ambiente";
+"FaceTec_retry_instruction_message_1" = "Expressão neutra, sem sorrir";
+"FaceTec_retry_instruction_message_2" = "Sem reflexo ou iluminação extrema";
+"FaceTec_retry_instruction_message_3" = "Muito borrado, limpe sua câmera";
+"FaceTec_retry_your_image_label" = "Sua selfie";
+"FaceTec_retry_ideal_image_label" = "Pose ideal";
+

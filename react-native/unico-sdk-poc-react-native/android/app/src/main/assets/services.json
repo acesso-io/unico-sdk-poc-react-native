@@ -1,0 +1,17 @@
+{
+    "project_info": {
+        "project_number": "462954306055148241554",
+        "project_id": "POC sem ln",
+        "project_j_apikey": "j_4e62ac9a-5ecb-4a30-b605-5148c24155e4"
+    },
+    "client_info": {
+        "mobilesdk_app_id": "1:34360:android",
+        "android_client_info": {
+            "package_name": "com.samplereactnative"
+        }
+    },
+    "host_info": {
+        "host_info": "B+2O5141Qrvr9FcK3Z4a1iQeyPQEYHCvJ6IkN4JNpNzYisHkI9wo21bQ1juBi6Rx",
+        "host_key": "Ys8BJQysfYUUCTPVBVEjZUO8787oP6bc/XefjUfDjYdYfM/z6x5K7O7P+Evddmsy"
+    }
+}

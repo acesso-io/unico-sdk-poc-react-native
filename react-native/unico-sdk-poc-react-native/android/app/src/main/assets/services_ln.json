@@ -1,0 +1,17 @@
+{
+    "project_info": {
+        "project_number": "40277525449988026566320",
+        "project_id": "POC N2 - Com liveness",
+        "project_j_apikey": "j_ad4027f7-5254-49ef-9ad8-80265d66320d"
+    },
+    "client_info": {
+        "mobilesdk_app_id": "1:34360:android",
+        "android_client_info": {
+            "package_name": "com.samplereactnative"
+        }
+    },
+    "host_info": {
+        "host_info": "B+2O5141Qrvr9FcK3Z4a1iQeyPQEYHCvJ6IkN4JNpNzYisHkI9wo21bQ1juBi6Rx",
+        "host_key": "JGfmUbVSMgSZQJ83XGX3diADcrSGrtU1AtHjFPMWP6L2p7WFIiRfuX2iQxesyoAy"
+    }
+}
